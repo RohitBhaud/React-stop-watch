@@ -1,0 +1,11 @@
+.App{
+  text-align: center;
+}
+.stopwatch{
+  width  : 20%;
+  border : 2px solid;
+  text-align : center; 
+  margin : auto;
+  font-size: 20px;
+ 
+}
